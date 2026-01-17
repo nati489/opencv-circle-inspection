@@ -1,0 +1,15 @@
+{
+  "source": 0,
+  "output_dir": "runs",
+  "roi": null,
+
+  "circularity_threshold": 0.80,
+  "min_contour_area": 200,
+
+  "blur_ksize": 5,
+
+  "show_preview": true,
+  "save_every_n_frames": 5,
+
+  "debug_show_bw": false
+}
